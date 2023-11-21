@@ -1,0 +1,109 @@
+h1{
+    height:80px;
+    width:100%;
+    text-align: center;
+    color: rgb(153, 221, 36);
+}
+body{
+    background-color: green;
+    background-image: url("moubnt.avif");
+    background-position: 100%;
+    background-size: cover;
+}
+
+h3{
+    text-align: center;
+    color: rgb(5, 5, 5);
+}
+.Reason{
+    color: rgb(243, 235, 235);
+    text-align: center;
+}
+.R1{
+    color:black ;
+    text-align: center;
+}
+     .pic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.R2{
+    color: black;
+    text-align: center;
+}
+.R3{
+    color: black;
+    text-align: center;
+}
+.R4{
+    color: black;
+    text-align: center;
+}
+.R5{
+    color: black;
+    text-align: center;
+}
+.type{
+    color: #0d0d11;
+    text-align: center;
+}
+.type1{
+    text-align: center;
+}
+.type2{
+    text-align: center;
+}
+.type3{
+    text-align: center;
+}
+.type4{
+    text-align: center;
+}
+.type5{
+    text-align: center;
+}
+.type6{
+    text-align: center;
+}
+.type7{
+    text-align: center;
+    
+}
+h4{
+    color: white;
+
+}
+.type8{
+    height: 215px;
+    width: 100%;
+    background-color: #f4f5f4;
+    color: #090a0a; 
+    text-align: center; 
+    background-image: url("sky.avif");
+    background-position: 100%;
+    background-size: cover;
+
+}
+.navbar{
+    width: 100%;
+    height: 100%;
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    position: relative;
+     background-image: url("photo-1594116640805-de8ac0bc9855.avif");
+     background-position: 100%;
+     background-size: cover;
+}
+#list{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    justify-content: space-evenly;
+   
+}
+.box1{
+    display: inline;
+}
